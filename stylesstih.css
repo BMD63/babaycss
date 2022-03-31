@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&family=Palette+Mosaic&display=swap');
+
+body
+{
+    background-color: #adaaaa;
+    font-family: 'Comfortaa', cursive;
+    font-size: 16px;
+}
+.container {
+    width: 800px;
+    margin: auto;
+    background-color: #949494;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.avatar2
+{
+    display:block;
+    margin-left: auto;   
+    margin-right: auto; 
+    border-radius: 30px;
+}
