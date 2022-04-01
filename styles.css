@@ -51,7 +51,7 @@ h1 {
 .card {
     background: paleturquoise;
     border-radius: 15px;
-    padding: 5px;
+    padding: 15px;
     margin-bottom: 10px;
 }
 .card h2{
@@ -80,11 +80,17 @@ h1 {
    .list {
        width: 25%;
        box-sizing: border-box;
+       padding-left: 40px;
           }
-.bakery {
+.bakery1  {
     box-sizing: border-box;
     width: 25%;
     margin-left: 5px;
+}
+.bakery {
+    width: 100%;
+    margin-top: 28px;
+    border-radius: 10px;
 }
 .table{
     width: 100%;

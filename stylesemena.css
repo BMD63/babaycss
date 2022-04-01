@@ -81,6 +81,9 @@ h1:hover {
     margin-top: 10px;
     margin-bottom: 10px;
 }
+.txtarea {
+    resize: none;
+}
 .semena {
     display: flex;
     margin-top: 10px;
@@ -102,6 +105,7 @@ h1:hover {
 }
 .seed:hover {
     opacity: 1;
+    transition-duration: 1s;
 }
 .btn:hover {
     opacity: 0.9;
@@ -124,5 +128,6 @@ h1:hover {
 }
 .text:hover {
     opacity: 1;
+    transition-duration: 1s;
 }
 
